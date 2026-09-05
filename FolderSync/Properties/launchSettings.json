@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "FolderSync": {
-      "commandName": "Project",
-      "commandLineArgs": "--source \"C:\\Users\\xavio\\Pictures\\Source\" --replica \"C:\\Users\\xavio\\Pictures\\Replica\" --interval 5 --log \"C:\\Users\\xavio\\Pictures\\Logs\\sync.log\""
-    }
-  }
-}
